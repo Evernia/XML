@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text>
+  <list>
+    <name>Inaccessible field for entering an email for the leave feedback form</name>
+  </list>
+  <list>
+    <info>Iformation</info>
+      <beadroll>
+        <environment>Win8.FireFox59.0.2</environment>
+        <version>2.1</version>
+        <priority>medium</priority>
+        <author>Ivan</author>
+      </beadroll>
+  </list>
+  <list>
+    <reproduction_steps>Reproduction Steps</reproduction_steps>
+      <beadroll>
+        <first>go to the page about the company</first>
+        <second>open the leave feedback form</second>
+        <third>move the cursor to the email field</third>
+      </beadroll>
+  </list>
+  <list>
+    <actual_result>the email field is not available for character input. Cursor does not appear</actual_result>
+  </list>
+  <list>
+    <expected_result>the email field is available for entering characters. The cursor appears</expected_result>
+  </list>
+</text>
