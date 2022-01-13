@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list>
+	<skills>Skills></skills>
+		<text>
+			<one>Postman</one>
+			<two>Fidler</two>
+			<three>DevTools</three>
+			<four>terminal</four>
+			<five>SQL</five>
+			<six>git</six>
+			<seven>Jmeter</seven>
+			<eight>Scrum</eight>
+			<nine>Python</nine>
+		</text>
+</list>

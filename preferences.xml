@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text>
+        <list>
+                <movie>Favorite Movie</movie>
+                        <beadroll>
+                                <first>Pleasantville</first>
+                        </beadroll>
+        </list>
+        <list>
+                <tv>Favorite TV show</tv>
+                        <beadroll>
+                                <first>Misfits</first>
+                                <second>Hannibal</second>
+                                <third>Peaky Blinders</third>
+                        </beadroll>
+        </list>
+        <list>
+                <food>Favorite Food</food>
+                        <beadroll>
+                                <first>Steamed Vegetables</first>
+                                <second>Meat</second>
+                        </beadroll>
+        </list>
+        <list>
+                <season>Favorite Season</season>
+                        <beadroll>
+                                <first>Autumn</first>
+                        </beadroll>
+        </list>
+        <list>
+                <country>Country You Would Like To Visit</country>
+                        <beadroll>
+                                <first>Germany</first>
+                                <second>Italy</second>
+                                <third>Ukraine</third>
+                        </beadroll>
+        </list>
+</text>
